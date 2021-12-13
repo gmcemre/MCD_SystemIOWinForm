@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_SystemIOWinForm", "MCD_SystemIOWinForm\MCD_SystemIOWinForm.csproj", "{68EFBE6B-07D7-44B2-BB87-7003AA44614B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EFBE6B-07D7-44B2-BB87-7003AA44614B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EFBE6B-07D7-44B2-BB87-7003AA44614B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EFBE6B-07D7-44B2-BB87-7003AA44614B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EFBE6B-07D7-44B2-BB87-7003AA44614B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DC27A83-22DE-4596-846B-AB7C9DF79B84}
+	EndGlobalSection
+EndGlobal
